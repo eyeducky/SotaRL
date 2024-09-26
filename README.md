@@ -1,4 +1,4 @@
-# ♡🤍♡🤍♡🤍♡🤍♡🤍I love Mr.Cha-Hyeongjun ♡🤍♡🤍♡🤍♡🤍♡🤍
+# ♡🤍♡🤍♡🤍I love Mr.Cha-Hyeongjun ♡🤍♡🤍♡🤍
 
 ## Environment
 - Ubuntu 20.04 (64bit)
